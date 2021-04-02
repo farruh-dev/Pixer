@@ -467,6 +467,10 @@ footer img{
         margin-top: 20px;
     }
 
+    .hww-image{
+        width: 50%;
+    }
+
     .order-form,.order-fill,.order{
         width: 100%;
     }
